@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1ab5cf55-548a-4cde-83b2-82b9e116f48a" version="1">
+  <Properties>
+    <Name>Erebor Civilization</Name>
+    <Teaser>Erebor Civilization</Teaser>
+    <Description>This mod adds Erebor Civilization with Thror.
+The trait is: you start with mining, +2 production from manufactory, +1 gold and +1 production from specialist, +33% unhappiness from number of cities, -10% unhappiness from population.
+The Unique Unit is dwarves that replace warriors: more powerfull (9 instead of 8), promotion dwarf attack and can build dwarf mine, street and fort.
+The Unique Improvement is dwarf mine that replaces mine: like mine but +1 gold and, with machinery, +1 production.</Description>
+    <Authors>Elia</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="3D27EAC2E86D08398B50D96E7A7833EB" import="1">Art/DWARVES128.dds</File>
+    <File md5="6FB653C5339995C2E5BB896AC272D73A" import="1">Art/DWARVES256.dds</File>
+    <File md5="7B2CC00C443C762AF300CEDDEB9897B7" import="1">Art/DWARVES45.dds</File>
+    <File md5="EAB6618A29EFB7D6003DA9E28003D804" import="1">Art/DWARVES64.dds</File>
+    <File md5="C699EB8FFC883112DB924D6A6068F6AD" import="1">Art/DWARVES80.dds</File>
+    <File md5="85F962D792ABA32E4921D42F1564AD22" import="1">Art/EREBOR128.dds</File>
+    <File md5="A2E12035C44874ECE68DFA699B7C4F21" import="1">Art/EREBOR256.dds</File>
+    <File md5="BF1367B74CDD5DAA0A4D04F0F99BB264" import="1">Art/EREBOR32.dds</File>
+    <File md5="82B77E2C9752733AEDB7F49EEA51536A" import="1">Art/EREBOR45.dds</File>
+    <File md5="D11FEDF01293B2A65E773B98887666D1" import="1">Art/EREBOR64.dds</File>
+    <File md5="B5A73C7C2C01D4E9398C61FAFCB8D41E" import="1">Art/EREBOR80.dds</File>
+    <File md5="EA2C1DEAC6C5DB778C76E6A6969A2CC6" import="1">Art/EREBORDOM.dds</File>
+    <File md5="C36CE1383986CC6653593E009097D39D" import="1">Art/MAPEREBOR.dds</File>
+    <File md5="E1DAC58B838E8EC19A8B84062B00D927" import="1">Art/THROR128.dds</File>
+    <File md5="757C67E6353AD1458F577CD566B6F849" import="1">Art/THROR256.dds</File>
+    <File md5="42ABA57122E29F1A055BA7DB173F2876" import="1">Art/THROR45.dds</File>
+    <File md5="5168ACF58C66ECB61F02F0E0C61D5CDD" import="1">Art/THROR64.dds</File>
+    <File md5="C451CBD8FABD0914F300F9410605C9F9" import="1">Art/THROR80.dds</File>
+    <File md5="BC4C22B5FAECD45721FC065E0B072FEA" import="1">Art/THRORdiplo.dds</File>
+    <File md5="2225631827D7498552004CEE51DB3116" import="0">XML/GameText.xml</File>
+    <File md5="8FE76B633843AA9AEB4EC33CAC70943C" import="0">XML/Erebor.xml</File>
+    <File md5="05B913179494CE77E3853E1C4231EDA8" import="1">XML/THRORScene.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Erebor.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

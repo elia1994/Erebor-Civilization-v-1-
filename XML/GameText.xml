@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_THROR">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_THROR_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THROR">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_THROR_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_DWARVESMINE">
+			<Text>Dwarf mine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_DWARVESMINE_TEXT">
+			<Text>The wind was on the withered heath,[NEWLINE]but in the forrest stirred no leaf:[NEWLINE]there shadows lay by night and day,[NEWLINE]and dark things silent crept beneath.[NEWLINE][NEWLINE]The wind came down from mountains cold,[NEWLINE]and like a tide it roared and rolled;[NEWLINE]the branches groaned, the forest moaned,[NEWLINE]and leaves were laid upon the mould.[NEWLINE][NEWLINE]The wind went on from West to East;[NEWLINE]all movement in the forest ceased,[NEWLINE]but shrill and harsh across the marsh[NEWLINE]its whistling voices were released.[NEWLINE][NEWLINE]The grasses hissed, their tassels bent,[NEWLINE]the reeds were rattling - on it went[NEWLINE]o'er shaken pool under heavens cool[NEWLINE]where racing clouds were torn and rent.[NEWLINE][NEWLINE]It passed the lonely Mountain bare[NEWLINE]and swept above the dragon's lair:[NEWLINE]there black and dark lay boulders stark[NEWLINE]and flying smoke was in the air.[NEWLINE][NEWLINE]It left the world and took its flight[NEWLINE]over the wide seas of the night.[NEWLINE]The moon set sail upon the gale,[NEWLINE]and stars were fanned to leaping light.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DWARVESATTACK">
+			<Text>Dwarf attack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DWARVESATTACK_HELP">
+			<Text>+10% if adjacent another unit[NEWLINE]+15% against mounted unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DWARVES">
+			<Text>Dwarves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_DWARVES">
+			<Text>Dwarves have dwarf attack promotion and are more powerfull than warriors that replace.[NEWLINE]They can build Dwarf mine, street and fort.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_DWARVES_TEXT">
+			<Text>Dwarves were a race in Middle-earth also known as the Khazad, the Naugrim (meaning 'Stunted People'), and Gonnhirrim (meaning 'Masters of Stone').</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INDUSTRIOUSNESSSPLENDOR">
+			<Text>You start with mining. +2 [ICON_PRODUCTION] from manufactory.[NEWLINE]+1 [ICON_GOLD] and +1 [ICON_PRODUCTION] from specialist.[NEWLINE]+33% [ICON_HAPPINESS_4] from number of cities, -10% [ICON_HAPPINESS_4] from number of [ICON_CITIZEN].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_INDUSTRIOUSNESSSPLENDOR_SHORT">
+			<Text>Industriousness and splendor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_1">
+			<Text>Erebor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_2">
+			<Text>Iron Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_3">
+			<Text>Grey mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_4">
+			<Text>Glittering Caves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_5">
+			<Text>Thorin's Halls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_6">
+			<Text>Lonely Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_7">
+			<Text>Long Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_8">
+			<Text>Ered Mithrim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_9">
+			<Text>Dale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_10">
+			<Text>Esgaroth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_11">
+			<Text>Carnen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_12">
+			<Text>Langwell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_13">
+			<Text>Greylin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_14">
+			<Text>Celduin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_15">
+			<Text>Rhun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_16">
+			<Text>Dwarf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYEREBOR_NAME_17">
+			<Text>Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_0">
+			<Text>Thorin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_1">
+			<Text>Thrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_2">
+			<Text>Dain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_3">
+			<Text>Fili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_4">
+			<Text>Kili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_5">
+			<Text>Balin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_6">
+			<Text>Dwalin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_7">
+			<Text>Gloin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_8">
+			<Text>Bombur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EREBOR_9">
+			<Text>Oin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_EREBOR_ADJECTIVE">
+			<Text>Erebor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_EREBOR_DESC">
+			<Text>Erebor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_EREBOR_SHORT_DESC">
+			<Text>Erebor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_EREBOR">
+			<Text>The Lord of the Rings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_EREBOR_DOM">
+			<Text>Thrór, son of Dáin I, King under the Mountain. [NEWLINE][NEWLINE]In his early life, Thrór and his family lived in the dragon-plagued Grey Mountains. In TA 2589, when their halls came under attack by Cold-drakes, his father Dáin I and younger brother Frór were both slain at their gates by a great Cold-Drake, and Thrór inherited the kingship. Thrór led a small portion of the House of Durin to recolonize Erebor where they rediscovered the Arkenstone. Under Thrór's leadership, Erebor prospered for over a century.[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THROR_HEADING_1">
+			<Text>Myth and Legend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THROR_TEXT_1">
+			<Text>Thrór was a King of Durin's Folk, the son of Dáin I, the grandson of Náin II, the father of Thráin II, the brother of Frór, and Grór, the grandfather of Thorin II Oakenshield, Frerin, and Dís, and the great-grandfather of Fíli and Kíli. In his early life, Thrór and his family lived in the dragon-plagued Grey Mountains. In TA 2589, when their halls came under attack by Cold-drakes, his father Dáin I and younger brother Frór were both slain at their gates by a great Cold-Drake, and Thrór inherited the kingship. Thrór led a small portion of the House of Durin to recolonize Erebor where they rediscovered the Arkenstone. Under Thrór's leadership, Erebor prospered for over a century. Eventually the wealth of the kingdom attracted the attention of the dragon known as Smaug, who flew south and destroyed the kingdom, killing hundreds of Dwarves and driving away Thrór and his family, as well as thousands of other surviving dwarves. Twenty years later in TA 2790, Thrór now old, poor, and desperate, gave to his son Thráin II the last of the Seven Rings and a map of the Lonely Mountain. He then left his people and journeyed away north with a single companion called Nár. They crossed over the Misty Mountains through the Redhorn Pass and then came south again, crossing the Silverlode into the valley of Azanulbizar beneath the East Gate of Moria. When they arrived, the gate was open. Nár begged Thrór to beware but Thrór disregarded his pleas and proudly entered Moria as its returning heir, but he did not come back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THROR_LIVED">
+			<Text>TA 2542 - TA 2790</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THROR_NAME">
+			<Text>Thrór</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_THROR_SUBTITLE">
+			<Text>The King under the Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THROR">
+			<Text>Thrór</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THROR_FIRSTGREETING_%">
+			<Text>I am Thrór and I am the King under the Mountain.[NEWLINE]Glad to meet you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THROR_DEFEATED_%">
+			<Text>You won. The Erebor has been conquered and the dwarves was been sent away again.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
